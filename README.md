@@ -18,3 +18,10 @@ Tahapan pada latihan kali ini adalah sebagai berikut:
 3. Hilangkan kolom 'CustomerID' dan 'gender'.
 4. Latih model K-Means.
 5. Buat plot untuk Elbow dan Cluster.
+
+**-- Latihan SKLearn Principal Component Analysis --**
+Tahapan pada latihan kali ini adalah sebagai berikut:
+1. Bagi dataset.
+2. Latih model tanpa PCA.
+3. Latih model dengan PCA.
+4. Evaluasi hasil kedua model.
