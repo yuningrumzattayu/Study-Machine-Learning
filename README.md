@@ -25,3 +25,12 @@ Tahapan pada latihan kali ini adalah sebagai berikut:
 2. Latih model tanpa PCA.
 3. Latih model dengan PCA.
 4. Evaluasi hasil kedua model.
+
+ **-- SVM Klasifikasi Diabetes --**
+Model machine learning yang dibuat bertujuan untuk mengklasifikasikan apakah seorang pasien positif diabetes atau tidak.
+Tahapan latihan kali ini adalah:
+1. Ubah data ke dalam Dataframe.
+2. Bagi dataset.
+3. Lakukan standarisasi.
+4. Buat dan latih model.
+5. Evaluasi model.
