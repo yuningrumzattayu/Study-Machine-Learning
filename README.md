@@ -34,3 +34,10 @@ Tahapan latihan kali ini adalah:
 3. Lakukan standarisasi.
 4. Buat dan latih model.
 5. Evaluasi model.
+
+**Latihan SKLearn Support Vector Regression**
+Tahapan pada latihan kali ini adalah sebagai berikut:
+1. Ubah data menjadi Dataframe.
+2. Pisahkan atribut dan label.
+3. Latih model SVR.
+4. Buat plot dari model.
