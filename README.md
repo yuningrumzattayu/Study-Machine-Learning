@@ -41,3 +41,13 @@ Tahapan pada latihan kali ini adalah sebagai berikut:
 2. Pisahkan atribut dan label.
 3. Latih model SVR.
 4. Buat plot dari model.
+
+
+**Latihan SKLearn dengan Teknik Grid Search**
+Menggunakan grid search untuk mencari parameter terbaik pada sebuah model SVR
+Tahapan latihan kali ini sebagai berikut:
+1. Ubah dataset data menjadi Dataframe.
+2. Definisikan parameter yang akan diuji.
+3. Jalankan fungsi grid search.
+4. Latih model dengan parameter terbaik hasil grid search.
+5. Buat plot dari model.
